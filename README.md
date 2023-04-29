@@ -1,4 +1,5 @@
 # Basic Missile Command HTML and JavaScript Game
+# [Live Demo](https://missile-command-kappa.vercel.app/)
 
 This is a basic implementation of the Atari Missile Command game, but it's missing a few things intentionally and they're left as further exploration for the reader.
 
